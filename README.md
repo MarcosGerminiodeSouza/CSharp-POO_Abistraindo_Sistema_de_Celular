@@ -1,5 +1,10 @@
-# DIO - Trilha .NET - Programação orientada a objetos
-www.dio.me
+# Abstraindo um Sistema de Celular com POO em C#
+
+Criando um Sistema e Abstraindo um Celular com Programação Orientada a Objetos em C#
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de orientação a objetos, da trilha .NET da DIO.
