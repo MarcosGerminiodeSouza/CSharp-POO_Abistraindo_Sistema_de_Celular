@@ -3,8 +3,8 @@
 // TODO: Realizar os testes com as classes Nokia e Iphone
 Console.Clear();
 
+Console.WriteLine("Smartphone NOKIA");
 Smartphone nokia = new Nokia(numero: "123456", modelo: "NOKIA C20", imei: "1212121212", memoria: 128);
-Console.WriteLine($"Smartphone {nokia.Numero}");
 nokia.Ligar();
 nokia.InstalarAplicativo("WhatsApp");
 
